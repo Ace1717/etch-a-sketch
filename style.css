@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 640px;
+    width: 640px;
+    border: solid;
+}
+
+#container div {
+    height: 40px;
+    width: 40px;
+    border: 2px solid;
+    box-sizing: border-box;
+}
